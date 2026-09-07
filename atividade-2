@@ -1,6 +1,6 @@
 # Atividade 2
 
-Subindo a base tratada e as bibliotecas
+# Subindo a base tratada e as bibliotecas
 
 import pandas as pd
 import seaborn as sns
@@ -8,35 +8,35 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('/content/sample_data/base_vendas_tratada.csv')
 
-Faturamento Total
+# Faturamento Total
 
 faturamento_total = df['Valor_Compra'].sum()
 
 print('Faturamento Total:')
 print(round(faturamento_total, 2))
 
-Ticket Médio
+# Ticket Médio
 
 ticket_medio = df['Valor_Compra'].mean()
 
 print('Ticket Médio:')
 print(round(ticket_medio, 2))
 
-Clientes Únicos
+# Clientes Únicos
 
 clientes = df['ID_Cliente'].nunique()
 
 print('Clientes únicos:')
 print(clientes)
 
-Avaliação Média
+# Avaliação Média
 
 avaliacao_media = df['Avaliacao'].mean()
 
 print('Avaliação média:')
 print(round(avaliacao_media,2))
 
-Faturamento por Categoria de produto
+# Faturamento por Categoria de produto
 
 plt.figure(figsize=(10,5))
 
@@ -56,7 +56,7 @@ plt.ylabel('Valor de Compra')
 
 plt.show()
 
-Compras realizadas por cidade
+# Compras realizadas por cidade
 
 plt.figure(figsize=(10,5))
 
@@ -74,7 +74,7 @@ plt.ylabel('Quantidade')
 
 plt.show()
 
-Gráfico de evolução
+# Gráfico de evolução
 
 df["Data_Compra"] = pd.to_datetime(df["Data_Compra"])
 
@@ -94,11 +94,12 @@ plt.show()
 
 # **Conclusão**
 
-Na etapa de análise exploratória, foram calculados KPIs relevantes, como faturamento total, ticket médio e quantidade de clientes. 
+# Na etapa de análise exploratória, foram calculados KPIs relevantes, como faturamento total, ticket médio e quantidade de clientes. 
 
 Também foram desenvolvidas visualizações gráficas que permitiram comparar o desempenho entre cidades e categorias de produtos, analisar a distribuição dos valores de compra e identificar tendências ao longo do tempo. 
 
 Essas visualizações facilitaram a identificação de padrões e comportamentos presentes nos dados.
+
 Os resultados indicaram diferenças de faturamento entre os estados analisados, além de variações no desempenho das categorias de produtos.
 
 A análise também mostrou como a visualização de dados pode transformar informações brutas em insights de negócio, apoiando a tomada de decisão de forma mais organizada e intuitiva.
