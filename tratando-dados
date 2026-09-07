@@ -1,0 +1,83 @@
+import pandas as pd
+
+df = pd.read_csv('/content/sample_data/base_vendas.csv')
+
+Entendendo os dados
+
+df.head()
+
+df.shape
+
+df.describe()
+
+df.isna().sum()
+
+df.duplicated().sum()
+
+Tratando Nulos
+
+df["Idade"] = df["Idade"].fillna(df["Idade"].median())
+df["Valor_Compra"] = df["Valor_Compra"].fillna(df["Valor_Compra"].mean())
+df["Nome"] = df["Nome"].fillna("Não informado")
+
+(df.isna().sum())
+
+Padronizando as Cidades
+
+df['Cidade'].value_counts()
+
+df['Cidade'] = df['Cidade'].str.upper()
+
+Padronizando os estados em UF
+
+df['Estado'].value_counts()
+
+df['Estado'] = df['Estado'].replace({
+    'Rio de Janeiro': 'RJ',
+    'São Paulo': 'SP'
+    })
+
+df['Estado'].value_counts()
+
+Padronizando gênero
+
+df['Genero'] = df['Genero'].replace({
+'M':'Masculino', 
+'masculino':'Masculino',
+'F':'Feminino',
+'feminino':'Feminino'
+}) 
+
+df['Genero'].value_counts()
+
+Criando Faixas Etárias
+
+df["Faixa_Etaria"] = pd.cut(
+df['Idade'],
+bins=[0,25,40,60,100],
+labels=[
+'<25',
+'25~40',
+'40~60',
+'60~100'
+])
+
+ordem_correta = ["<25", "25~40", "40~60", "60~100"]
+
+df["Faixa_Etaria"] = pd.Categorical(
+df["Faixa_Etaria"], categories = ordem_correta, ordered=True
+)
+df['Faixa_Etaria'].value_counts(sort=False)
+
+Agrupando cidade por valor compra
+
+df.groupby('Estado')['Valor_Compra'].agg(
+["count","sum","mean","min","max"]
+).round(2)
+
+Salvando o tratamento
+
+df.to_csv(
+"base_vendas_tratada.csv",
+index=False
+)
