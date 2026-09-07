@@ -1,0 +1,301 @@
+﻿ID_Cliente,Nome,Cidade,Estado,Idade,Genero,Categoria_Produto,Valor_Compra,Data_Compra,Canal_Venda,Avaliacao
+280,Dr. Luan Sousa,sao paulo,PR,58.0,Feminino,Eletrônicos,3720.67,2026-07-16,Site,1
+280,Sr. Brayan Rodrigues,CURITIBA,São Paulo,31.0,Feminino,Casa,3029.99,2025-09-12,Aplicativo,1
+53,Sr. Samuel Cavalcanti,sao paulo,Rio de Janeiro,28.0,Masculino,Celulares,1734.24,2026-03-18,Aplicativo,5
+41,Clara Caldeira,Salvador,RJ,34.0,F,Casa,3662.17,2026-02-25,Aplicativo,5
+120,Marcela da Rocha,sao paulo,Rio de Janeiro,30.0,M,Livros,276.83,2026-07-28,Loja Física,3
+37,Rafael Castro,SAO PAULO,PR,28.0,F,Informática,1087.06,2025-10-10,Site,4
+29,Ana Júlia Macedo,Rio de Janeiro,BA,42.0,Masculino,Celulares,4630.69,2026-03-24,Aplicativo,3
+256,Sofia Camargo,CURITIBA,MG,22.0,Feminino,Informática,4717.4,2025-10-06,Aplicativo,2
+205,Ana Clara Rios,Curitiba,São Paulo,33.0,masculino,Casa,2717.94,2025-11-12,Aplicativo,1
+33,Luísa Castro,CURITIBA,Rio de Janeiro,21.0,feminino,Livros,806.56,2025-11-05,Loja Física,3
+137,Maria Julia Melo,Curitiba,SP,53.0,M,Livros,106.83,2025-12-06,Site,4
+260,Cecilia Andrade,sao paulo,BA,18.0,F,Celulares,4385.47,2026-06-07,Loja Física,5
+1,Maria Sá,Curitiba,Rio de Janeiro,56.0,Masculino,Eletrônicos,1900.87,2025-12-09,Aplicativo,3
+36,Dra. Olívia Nunes,Salvador,BA,,masculino,Informática,4396.15,2026-01-01,Loja Física,4
+103,Luiz Miguel Rios,rio de janeiro,Rio de Janeiro,53.0,F,Esportes,2661.99,2025-12-04,Aplicativo,4
+118,,Rio de Janeiro,SP,51.0,Masculino,Esportes,1277.13,2025-11-27,Loja Física,1
+249,Dr. Fernando Cassiano,Rio de Janeiro,PR,,masculino,Esportes,205.49,2026-04-17,Loja Física,5
+221,João Vitor Farias,Curitiba,Rio de Janeiro,48.0,Feminino,Livros,2391.22,2025-10-04,Loja Física,1
+128,Luna Mendes,Rio de Janeiro,São Paulo,61.0,feminino,Livros,3248.59,2026-07-13,Site,4
+51,Benício Fonseca,São Paulo,MG,29.0,feminino,Eletrônicos,1286.54,2025-11-29,Site,2
+195,Dra. Emanuelly Brito,São Paulo,Rio de Janeiro,28.0,M,Livros,2432.72,2026-06-14,Aplicativo,4
+98,Maria Vitória Nunes,rio de janeiro,São Paulo,62.0,Masculino,Casa,4977.34,2026-06-19,Loja Física,5
+81,Bianca Barbosa,São Paulo,PR,21.0,Masculino,Informática,332.97,2025-12-09,Site,5
+21,Mathias Fernandes,sao paulo,Rio de Janeiro,22.0,F,Casa,1214.26,2026-05-03,Loja Física,5
+68,Josué Jesus,rio de janeiro,Rio de Janeiro,38.0,M,Eletrônicos,1061.08,2026-02-16,Site,4
+68,Valentina Souza,Curitiba,SP,57.0,masculino,Celulares,4980.68,2026-04-24,Aplicativo,2
+271,Luan Barros,São Paulo,MG,46.0,feminino,Celulares,3532.52,2025-10-07,Loja Física,1
+108,Jade Rodrigues,Curitiba,São Paulo,26.0,F,Esportes,4454.08,2026-04-15,Aplicativo,5
+23,Sara Nogueira,São Paulo,RJ,49.0,masculino,Esportes,4545.39,2026-04-18,Aplicativo,2
+77,João Gabriel da Cruz,Salvador,SP,65.0,M,Casa,3543.05,2025-09-18,Loja Física,2
+184,João Pedro Martins,Rio de Janeiro,MG,45.0,masculino,Esportes,1575.88,2026-08-17,Site,3
+84,Gabriel Camargo,SAO PAULO,Rio de Janeiro,53.0,Masculino,Informática,2061.57,2026-05-08,Loja Física,3
+56,Calebe Freitas,CURITIBA,BA,44.0,Masculino,Livros,4327.12,2025-09-12,Site,2
+99,Srta. Brenda Cavalcanti,CURITIBA,RJ,47.0,M,Eletrônicos,4111.66,2025-10-04,Aplicativo,3
+60,Antonella Fonseca,rio de janeiro,São Paulo,59.0,feminino,Celulares,3413.61,2026-08-23,Site,1
+60,Dr. João Miguel Vieira,CURITIBA,PR,56.0,masculino,Celulares,3656.3,2025-12-19,Site,4
+101,Vitória Ribeiro,Curitiba,Rio de Janeiro,18.0,Masculino,Esportes,4042.23,2025-09-28,Aplicativo,5
+210,Sophie da Luz,Curitiba,Rio de Janeiro,38.0,F,Celulares,666.9,2025-09-30,Loja Física,2
+155,Luísa Fernandes,CURITIBA,PR,30.0,Masculino,Celulares,4704.8,2025-10-26,Aplicativo,2
+110,Davi Nascimento,Salvador,Rio de Janeiro,45.0,F,Informática,3052.97,2025-09-26,Loja Física,1
+159,Sophia Macedo,Rio de Janeiro,BA,36.0,masculino,Informática,3183.06,2026-05-09,Site,1
+100,Kevin Leão,CURITIBA,Rio de Janeiro,33.0,Feminino,Informática,3075.81,2025-10-19,Site,1
+26,Evelyn Mendonça,Salvador,São Paulo,24.0,Masculino,Livros,1133.26,2026-01-12,Site,4
+259,Heloísa Farias,CURITIBA,BA,60.0,feminino,Livros,2816.68,2026-01-23,Site,4
+249,Brenda Dias,Rio de Janeiro,RJ,46.0,Feminino,Eletrônicos,1273.84,2025-12-14,Loja Física,3
+197,Natália Moraes,SAO PAULO,MG,33.0,masculino,Eletrônicos,1632.56,2026-05-11,Aplicativo,4
+11,Dra. Pietra da Rosa,CURITIBA,Rio de Janeiro,39.0,Masculino,Celulares,2108.08,2025-11-11,Aplicativo,4
+113,Rael Rios,rio de janeiro,Rio de Janeiro,44.0,Feminino,Eletrônicos,3686.44,2025-12-31,Aplicativo,3
+274,Elisa Moreira,São Paulo,Rio de Janeiro,60.0,feminino,Casa,2051.37,2026-07-03,Loja Física,1
+168,Hadassa da Rocha,Rio de Janeiro,Rio de Janeiro,23.0,M,Celulares,721.71,2026-02-24,Aplicativo,3
+115,Bárbara Duarte,sao paulo,BA,44.0,F,Eletrônicos,,2026-03-11,Site,2
+112,Sra. Ana Liz Fogaça,Belo Horizonte,MG,30.0,M,Celulares,3125.61,2026-07-10,Site,5
+56,Jade Machado,São Paulo,RJ,56.0,feminino,Esportes,3605.87,2026-03-31,Aplicativo,4
+155,Rhavi da Mata,sao paulo,BA,63.0,feminino,Eletrônicos,2980.88,2025-09-15,Aplicativo,5
+251,,sao paulo,Rio de Janeiro,45.0,M,Esportes,391.34,2026-02-03,Aplicativo,2
+248,Luiz Felipe Barros,Belo Horizonte,Rio de Janeiro,45.0,F,Casa,2632.65,2025-12-05,Aplicativo,3
+195,Antonella Rezende,Curitiba,SP,33.0,Feminino,Celulares,478.98,2026-01-12,Site,4
+6,Luigi Melo,Salvador,São Paulo,31.0,Masculino,Informática,1328.84,2026-04-18,Loja Física,4
+9,Sophia Dias,sao paulo,RJ,49.0,masculino,Livros,1239.6,2026-01-20,Loja Física,2
+170,Gabriel Castro,Curitiba,MG,37.0,Feminino,Celulares,1876.65,2025-11-29,Aplicativo,3
+95,Asafe Vasconcelos,Rio de Janeiro,São Paulo,32.0,F,Livros,1003.29,2025-09-18,Aplicativo,5
+92,Bruno Farias,rio de janeiro,SP,51.0,F,Casa,4903.53,2026-03-06,Site,3
+53,Carlos Eduardo Barros,São Paulo,PR,20.0,M,Livros,2789.13,2025-12-29,Aplicativo,4
+206,Vitor Gabriel da Rocha,Belo Horizonte,SP,39.0,feminino,Esportes,304.31,2026-08-04,Loja Física,1
+214,Pedro Henrique Pimenta,Rio de Janeiro,BA,27.0,feminino,Livros,2836.06,2026-07-08,Aplicativo,4
+51,Luiz Miguel Cassiano,Rio de Janeiro,MG,37.0,masculino,Celulares,4950.65,2025-10-29,Loja Física,1
+241,Ana Lívia Porto,rio de janeiro,SP,28.0,masculino,Celulares,2782.36,2025-09-19,Loja Física,3
+102,Mariana Melo,CURITIBA,SP,62.0,feminino,Informática,402.34,2025-10-21,Loja Física,2
+148,Srta. Alexia das Neves,Belo Horizonte,SP,35.0,Feminino,Esportes,403.48,2025-11-19,Aplicativo,4
+166,,rio de janeiro,SP,35.0,Masculino,Informática,2494.29,2026-01-28,Loja Física,5
+90,Pietra Melo,Belo Horizonte,PR,55.0,F,Livros,4997.88,2026-08-17,Aplicativo,2
+171,Dra. Luana Moura,Curitiba,MG,55.0,Masculino,Informática,4080.51,2026-02-09,Aplicativo,4
+233,Isis Guerra,sao paulo,RJ,62.0,M,Celulares,3329.79,2026-08-19,Site,4
+97,Julia da Rosa,Salvador,RJ,50.0,feminino,Livros,55.7,2026-08-10,Loja Física,4
+249,Zoe Nogueira,sao paulo,SP,21.0,F,Casa,2768.64,2025-09-14,Site,2
+237,João Felipe Castro,sao paulo,MG,37.0,masculino,Livros,2783.64,2026-07-10,Loja Física,3
+75,Clarice Sá,CURITIBA,São Paulo,50.0,feminino,Casa,2106.68,2026-01-16,Loja Física,2
+137,Noah Pacheco,São Paulo,RJ,22.0,F,Celulares,3960.53,2025-12-21,Loja Física,5
+279,Melissa Lima,CURITIBA,Rio de Janeiro,60.0,M,Informática,785.55,2025-11-28,Loja Física,2
+196,João Pedro Abreu,CURITIBA,MG,54.0,F,Informática,4287.26,2026-01-07,Aplicativo,1
+52,Matheus Cardoso,Salvador,Rio de Janeiro,26.0,Masculino,Esportes,2971.39,2026-01-24,Site,4
+204,Sophie Barros,sao paulo,BA,59.0,M,Esportes,420.4,2025-10-22,Loja Física,4
+36,Arthur Miguel Borges,Rio de Janeiro,MG,38.0,F,Celulares,4442.82,2025-10-25,Site,1
+154,Dra. Catarina Macedo,São Paulo,SP,45.0,M,Eletrônicos,3813.83,2026-06-13,Aplicativo,3
+88,Juliana da Cunha,SAO PAULO,SP,41.0,feminino,Livros,1258.78,2026-06-06,Loja Física,2
+5,Maitê Leão,Belo Horizonte,RJ,49.0,F,Casa,758.43,2026-04-29,Site,1
+129,Dra. Stella Vasconcelos,Belo Horizonte,BA,46.0,M,Informática,4938.88,2025-09-18,Aplicativo,4
+12,Dra. Allana Campos,CURITIBA,RJ,24.0,Masculino,Casa,2881.02,2026-04-08,Loja Física,1
+181,Diogo da Rocha,Rio de Janeiro,MG,56.0,masculino,Casa,4172.55,2026-05-12,Aplicativo,2
+187,Sr. José Pedro Siqueira,SAO PAULO,SP,58.0,M,Celulares,,2026-08-20,Loja Física,4
+140,Vitor Pastor,SAO PAULO,RJ,29.0,Feminino,Celulares,3943.24,2025-12-24,Loja Física,3
+204,Valentina Moraes,Salvador,RJ,25.0,Masculino,Livros,422.73,2025-09-25,Site,3
+191,Henry Alves,sao paulo,MG,52.0,masculino,Livros,1874.5,2026-02-23,Site,5
+155,Luiz Fernando Ferreira,CURITIBA,SP,53.0,masculino,Eletrônicos,3069.91,2026-01-12,Site,3
+277,Maria da Costa,CURITIBA,PR,49.0,F,Esportes,1212.26,2026-03-01,Site,4
+190,Nina Fonseca,Rio de Janeiro,Rio de Janeiro,59.0,Feminino,Informática,2472.27,2026-08-21,Aplicativo,1
+98,Catarina Casa Grande,sao paulo,BA,61.0,Feminino,Eletrônicos,4513.4,2026-04-18,Loja Física,2
+106,Vitória da Mata,sao paulo,BA,59.0,feminino,Informática,4856.91,2026-07-04,Loja Física,2
+67,,Salvador,RJ,32.0,masculino,Eletrônicos,780.39,2026-06-24,Loja Física,1
+136,Luiza Cardoso,São Paulo,São Paulo,,F,Livros,3960.42,2026-06-09,Loja Física,1
+258,João Pedro Brito,Rio de Janeiro,PR,,Masculino,Esportes,2268.96,2026-01-18,Loja Física,5
+219,Heloísa Camargo,sao paulo,Rio de Janeiro,37.0,F,Livros,4821.93,2026-02-13,Site,1
+167,Maria Cecília Ribeiro,CURITIBA,PR,38.0,feminino,Celulares,375.13,2025-11-30,Aplicativo,5
+111,Maria da Paz,CURITIBA,Rio de Janeiro,56.0,masculino,Livros,3975.83,2025-11-28,Aplicativo,4
+79,Pedro da Luz,Belo Horizonte,SP,43.0,Masculino,Eletrônicos,520.67,2026-02-27,Site,4
+169,Julia Caldeira,sao paulo,Rio de Janeiro,24.0,M,Esportes,1894.6,2025-11-23,Aplicativo,1
+247,Matheus da Cruz,Rio de Janeiro,BA,36.0,Masculino,Celulares,1790.65,2025-10-05,Loja Física,3
+14,Augusto Mendes,rio de janeiro,SP,25.0,masculino,Celulares,2891.8,2025-10-23,Loja Física,3
+73,Kamilly Cavalcante,São Paulo,SP,39.0,F,Casa,947.96,2026-08-02,Site,4
+44,Theodoro Costela,São Paulo,São Paulo,44.0,masculino,Casa,829.18,2025-11-20,Site,1
+263,Lara da Cunha,sao paulo,RJ,35.0,Feminino,Eletrônicos,2148.87,2026-05-19,Aplicativo,5
+4,Anna Liz Marques,Rio de Janeiro,RJ,49.0,masculino,Informática,1576.68,2026-08-09,Aplicativo,3
+118,Arthur Gabriel Oliveira,Salvador,PR,38.0,F,Celulares,2512.06,2025-12-08,Site,4
+220,Sr. Rodrigo Carvalho,CURITIBA,MG,,F,Livros,142.77,2025-11-16,Aplicativo,1
+186,Yuri Brito,sao paulo,Rio de Janeiro,,Masculino,Informática,1657.6,2025-09-18,Aplicativo,5
+87,Olivia da Luz,sao paulo,PR,43.0,F,Eletrônicos,2009.05,2026-03-20,Loja Física,5
+121,Srta. Manuela Vasconcelos,sao paulo,São Paulo,30.0,M,Informática,1779.41,2026-06-23,Site,5
+238,Manuela Alves,Belo Horizonte,MG,27.0,feminino,Esportes,3294.77,2025-12-28,Loja Física,5
+156,José Pedro da Rocha,rio de janeiro,PR,38.0,Masculino,Celulares,3154.73,2026-01-23,Loja Física,1
+47,Maitê Silveira,Salvador,Rio de Janeiro,37.0,Feminino,Casa,236.16,2025-10-11,Loja Física,1
+78,Lívia Ribeiro,São Paulo,Rio de Janeiro,46.0,Masculino,Celulares,2879.7,2025-12-24,Loja Física,1
+268,Isaque Farias,SAO PAULO,RJ,50.0,M,Celulares,243.75,2025-12-12,Aplicativo,4
+49,Marcelo Barbosa,Salvador,MG,39.0,Feminino,Celulares,309.21,2026-03-22,Aplicativo,5
+201,Ísis Nunes,SAO PAULO,PR,27.0,F,Eletrônicos,2934.56,2025-10-06,Aplicativo,5
+270,Francisco Vasconcelos,sao paulo,MG,42.0,F,Livros,1675.96,2025-09-21,Loja Física,3
+99,Murilo Nunes,Rio de Janeiro,São Paulo,19.0,masculino,Eletrônicos,942.3,2026-01-01,Aplicativo,1
+68,,CURITIBA,São Paulo,50.0,masculino,Informática,4183.84,2026-03-18,Loja Física,5
+146,Jade Pinto,Belo Horizonte,São Paulo,28.0,feminino,Informática,266.28,2026-01-22,Aplicativo,4
+196,Enzo Garcia,Salvador,PR,30.0,Feminino,Informática,4738.29,2026-04-15,Site,5
+265,Olivia Novaes,sao paulo,RJ,26.0,Masculino,Informática,308.29,2026-07-16,Aplicativo,4
+179,Maria Helena Santos,São Paulo,Rio de Janeiro,50.0,Masculino,Livros,2215.49,2026-01-19,Loja Física,3
+172,Dr. João Vitor da Luz,SAO PAULO,São Paulo,33.0,Masculino,Celulares,453.95,2026-07-18,Aplicativo,2
+77,,Salvador,MG,63.0,feminino,Casa,3095.97,2026-05-19,Aplicativo,1
+235,Noah Camargo,sao paulo,SP,36.0,Feminino,Casa,653.15,2025-10-23,Loja Física,1
+181,João Lucas Montenegro,Rio de Janeiro,PR,58.0,Feminino,Informática,1247.59,2025-10-27,Loja Física,1
+11,Théo Leão,CURITIBA,BA,51.0,Feminino,Eletrônicos,385.01,2025-12-21,Loja Física,4
+54,Isis da Costa,Curitiba,São Paulo,41.0,Masculino,Celulares,130.4,2025-10-05,Loja Física,3
+94,Ágatha Teixeira,SAO PAULO,SP,59.0,F,Livros,3906.76,2025-10-18,Site,3
+204,Bruno Brito,Salvador,Rio de Janeiro,,M,Eletrônicos,,2025-12-17,Loja Física,2
+189,Caleb Campos,CURITIBA,Rio de Janeiro,36.0,F,Livros,3915.17,2026-07-05,Aplicativo,3
+218,Nicolas Marques,sao paulo,Rio de Janeiro,29.0,feminino,Informática,2512.74,2026-07-26,Loja Física,3
+86,Daniela Leão,Belo Horizonte,RJ,38.0,Feminino,Eletrônicos,1673.2,2026-01-31,Loja Física,3
+208,Maria Vitória Guerra,Curitiba,PR,57.0,F,Esportes,1409.05,2026-07-30,Site,1
+188,Maria Sophia Farias,Curitiba,Rio de Janeiro,27.0,feminino,Eletrônicos,3406.54,2026-05-09,Loja Física,2
+272,Arthur Miguel Araújo,Curitiba,Rio de Janeiro,61.0,M,Esportes,1886.27,2026-06-28,Aplicativo,2
+135,Sabrina Camargo,rio de janeiro,MG,,Feminino,Informática,970.94,2026-07-08,Loja Física,3
+89,Davi da Costa,Belo Horizonte,SP,62.0,F,Celulares,2481.44,2026-01-18,Loja Física,3
+90,Dr. Joaquim Caldeira,Curitiba,PR,,masculino,Eletrônicos,2733.75,2025-09-07,Site,2
+67,Nicolas Albuquerque,sao paulo,SP,33.0,M,Livros,180.11,2025-11-28,Loja Física,4
+38,Larissa Leão,Belo Horizonte,Rio de Janeiro,51.0,F,Casa,2076.7,2026-03-28,Aplicativo,2
+64,Maria Julia Santos,Salvador,São Paulo,53.0,M,Informática,950.72,2026-08-09,Site,3
+129,Mariah Sousa,Rio de Janeiro,MG,63.0,feminino,Celulares,4740.04,2026-07-28,Site,3
+88,Ester Teixeira,Curitiba,BA,57.0,feminino,Eletrônicos,2537.74,2026-06-20,Site,1
+214,Bianca da Paz,São Paulo,Rio de Janeiro,20.0,F,Casa,3866.56,2025-11-18,Aplicativo,3
+31,Lucas Castro,SAO PAULO,Rio de Janeiro,48.0,Feminino,Livros,4046.38,2025-09-19,Aplicativo,2
+205,Noah Correia,SAO PAULO,BA,39.0,M,Casa,1597.28,2026-03-14,Loja Física,1
+149,Maria Luísa Fernandes,CURITIBA,BA,38.0,feminino,Livros,656.48,2026-08-12,Site,2
+240,Juan Guerra,Belo Horizonte,RJ,38.0,Feminino,Eletrônicos,3619.59,2025-12-17,Site,4
+254,Davi Souza,Belo Horizonte,RJ,50.0,feminino,Eletrônicos,1241.61,2026-04-15,Site,4
+27,Sarah Pacheco,Salvador,São Paulo,26.0,M,Casa,3651.16,2026-02-13,Aplicativo,1
+61,Zoe Costela,SAO PAULO,SP,42.0,Feminino,Celulares,3833.8,2025-09-23,Aplicativo,5
+20,Manuella Aparecida,SAO PAULO,MG,41.0,M,Livros,1035.34,2026-08-14,Loja Física,4
+202,Maria Helena Ferreira,rio de janeiro,PR,27.0,M,Casa,2601.75,2026-06-15,Loja Física,5
+57,Vitória Pinto,CURITIBA,PR,49.0,M,Esportes,1533.96,2025-09-27,Loja Física,1
+117,Ísis Machado,São Paulo,PR,56.0,Feminino,Informática,4837.0,2025-11-15,Loja Física,5
+98,Ravy Sampaio,São Paulo,Rio de Janeiro,42.0,M,Livros,,2026-07-12,Site,4
+71,Sabrina Fogaça,Salvador,São Paulo,62.0,feminino,Celulares,2534.01,2026-08-06,Loja Física,4
+182,Nathan da Cunha,rio de janeiro,PR,51.0,Feminino,Informática,4785.59,2025-12-01,Site,3
+107,Léo Montenegro,Belo Horizonte,RJ,53.0,Feminino,Celulares,4710.35,2025-09-11,Loja Física,3
+75,João Felipe Castro,rio de janeiro,SP,36.0,M,Esportes,3399.28,2026-03-14,Site,3
+140,Hellena Castro,SAO PAULO,SP,46.0,feminino,Esportes,3749.33,2026-04-21,Loja Física,2
+212,Pedro Henrique Melo,Curitiba,MG,,Feminino,Eletrônicos,4530.66,2026-07-17,Loja Física,2
+245,Srta. Ana Beatriz Freitas,Rio de Janeiro,BA,18.0,M,Celulares,4890.66,2026-01-06,Aplicativo,1
+90,Ana Clara Moura,CURITIBA,BA,23.0,masculino,Eletrônicos,1199.49,2026-08-18,Aplicativo,4
+153,Enzo Gabriel Moraes,sao paulo,RJ,29.0,M,Livros,4812.55,2026-09-02,Loja Física,5
+58,Davi Mendonça,Curitiba,São Paulo,51.0,F,Livros,4695.87,2026-05-31,Loja Física,3
+90,Bernardo Cavalcante,CURITIBA,BA,63.0,Feminino,Casa,3696.26,2026-05-31,Aplicativo,1
+4,Dr. Vicente Caldeira,rio de janeiro,Rio de Janeiro,43.0,masculino,Livros,964.67,2026-05-02,Aplicativo,3
+32,Catarina Vargas,sao paulo,Rio de Janeiro,37.0,M,Informática,2885.74,2026-05-09,Aplicativo,5
+114,Francisco Freitas,Rio de Janeiro,São Paulo,63.0,Feminino,Informática,3466.94,2026-03-02,Aplicativo,5
+112,Srta. Isis Costa,Rio de Janeiro,MG,41.0,feminino,Eletrônicos,2768.71,2025-10-01,Loja Física,4
+259,Ana Clara Ramos,Rio de Janeiro,PR,51.0,feminino,Informática,436.61,2025-11-30,Site,3
+229,Fernanda da Cunha,São Paulo,Rio de Janeiro,51.0,masculino,Casa,3417.46,2025-12-19,Aplicativo,4
+131,Mariah Costa,São Paulo,MG,,masculino,Casa,2338.77,2026-02-16,Site,1
+242,Yago Pinto,São Paulo,RJ,45.0,Feminino,Informática,365.61,2026-08-02,Site,4
+42,Dra. Liz Aparecida,Salvador,São Paulo,41.0,F,Celulares,1943.27,2026-02-26,Site,2
+153,Evelyn Cardoso,Belo Horizonte,MG,52.0,F,Casa,680.37,2026-08-26,Aplicativo,5
+17,Gael Henrique Vasconcelos,CURITIBA,PR,42.0,Masculino,Informática,1275.18,2026-07-11,Site,1
+23,Dra. Maria Luiza Caldeira,CURITIBA,Rio de Janeiro,24.0,masculino,Casa,2259.88,2026-05-04,Site,1
+165,Apollo Souza,Rio de Janeiro,RJ,26.0,masculino,Esportes,1481.85,2026-03-27,Loja Física,2
+219,Luigi Brito,Salvador,Rio de Janeiro,44.0,Masculino,Celulares,351.74,2026-06-09,Loja Física,4
+243,Maria Luísa Cardoso,Rio de Janeiro,BA,51.0,masculino,Celulares,2110.81,2025-12-05,Loja Física,2
+199,Pedro Henrique Correia,Rio de Janeiro,RJ,47.0,masculino,Celulares,2833.81,2026-06-30,Loja Física,1
+194,Ian Camargo,São Paulo,BA,46.0,Masculino,Informática,507.7,2026-04-22,Loja Física,5
+109,Théo Rezende,Rio de Janeiro,MG,31.0,Masculino,Esportes,4353.9,2026-08-30,Aplicativo,2
+195,Dra. Maria Flor Lima,Belo Horizonte,PR,62.0,F,Celulares,1062.34,2026-04-15,Aplicativo,3
+164,Sra. Ana Sophia Santos,Rio de Janeiro,RJ,41.0,M,Livros,2511.52,2026-01-09,Site,5
+152,Ana Júlia Duarte,SAO PAULO,São Paulo,32.0,M,Informática,130.29,2026-02-05,Aplicativo,5
+252,Melina Sá,Belo Horizonte,São Paulo,33.0,F,Celulares,3290.31,2025-12-30,Site,2
+269,Isaque Pimenta,São Paulo,BA,64.0,Masculino,Esportes,961.04,2026-08-07,Site,1
+259,Laura Azevedo,Belo Horizonte,RJ,44.0,Masculino,Casa,3171.97,2026-05-18,Loja Física,5
+272,Enzo Gabriel da Mata,rio de janeiro,PR,48.0,M,Eletrônicos,127.87,2026-08-29,Loja Física,4
+130,Fernanda Guerra,Curitiba,RJ,29.0,Feminino,Eletrônicos,526.75,2025-12-11,Aplicativo,4
+17,Ayla Moraes,sao paulo,Rio de Janeiro,47.0,Feminino,Livros,4951.65,2026-07-27,Loja Física,4
+170,Zoe Andrade,sao paulo,PR,21.0,Masculino,Informática,3529.08,2025-10-11,Site,5
+17,Mirella Machado,SAO PAULO,BA,48.0,M,Eletrônicos,4624.59,2025-12-02,Site,5
+124,Isabela da Conceição,CURITIBA,MG,27.0,feminino,Celulares,3577.92,2026-06-15,Aplicativo,2
+119,Esther Campos,sao paulo,RJ,62.0,feminino,Casa,2528.92,2026-01-26,Loja Física,4
+193,Heitor Dias,CURITIBA,São Paulo,,F,Casa,1402.97,2026-03-08,Loja Física,4
+79,Evelyn Marques,CURITIBA,MG,23.0,F,Informática,1512.13,2026-04-22,Loja Física,4
+53,Maria Luísa Borges,SAO PAULO,SP,38.0,masculino,Livros,503.03,2026-04-21,Aplicativo,5
+167,Francisco Moura,CURITIBA,SP,53.0,M,Livros,561.3,2025-11-05,Aplicativo,1
+195,Joana Carvalho,SAO PAULO,São Paulo,64.0,M,Celulares,4530.78,2026-06-12,Aplicativo,4
+185,Cauê Guerra,rio de janeiro,São Paulo,,F,Esportes,2201.65,2026-07-29,Aplicativo,5
+195,Raquel Cavalcanti,Curitiba,Rio de Janeiro,57.0,M,Livros,579.51,2026-03-20,Loja Física,5
+204,Josué Ramos,Curitiba,RJ,26.0,F,Esportes,3035.9,2026-06-08,Loja Física,4
+59,Brayan Porto,Rio de Janeiro,PR,54.0,feminino,Informática,1663.14,2026-03-04,Loja Física,5
+36,Gael Henrique Silveira,CURITIBA,MG,19.0,Feminino,Informática,2335.03,2026-04-10,Loja Física,3
+246,José Pedro Vasconcelos,CURITIBA,PR,33.0,feminino,Esportes,813.01,2026-01-20,Aplicativo,5
+44,Vicente Moreira,sao paulo,BA,20.0,masculino,Esportes,1829.67,2025-10-15,Loja Física,3
+170,Theo Cavalcanti,CURITIBA,SP,28.0,Masculino,Eletrônicos,269.27,2026-02-14,Aplicativo,2
+201,Alana Nascimento,Belo Horizonte,BA,50.0,F,Casa,2812.07,2026-02-27,Loja Física,5
+60,Antônio da Costa,SAO PAULO,RJ,27.0,M,Celulares,171.59,2026-07-25,Aplicativo,2
+35,Sr. Arthur Dias,rio de janeiro,SP,51.0,F,Eletrônicos,2407.0,2026-03-27,Site,3
+90,Sr. Valentim da Cunha,Salvador,São Paulo,59.0,M,Casa,4010.25,2025-12-16,Aplicativo,4
+15,Liz Vieira,Rio de Janeiro,Rio de Janeiro,32.0,feminino,Livros,3167.31,2026-02-16,Aplicativo,1
+53,Daniela Vargas,Salvador,São Paulo,63.0,M,Celulares,1427.81,2025-11-15,Site,4
+199,Sr. Cauê Dias,CURITIBA,PR,25.0,Masculino,Celulares,4320.05,2025-11-05,Aplicativo,4
+44,Dr. João Novais,SAO PAULO,RJ,57.0,Masculino,Informática,3384.26,2025-11-08,Aplicativo,1
+197,Luísa Castro,CURITIBA,São Paulo,29.0,Feminino,Esportes,749.72,2025-11-16,Loja Física,2
+28,Dr. Mateus Moura,Curitiba,SP,53.0,Feminino,Informática,1479.73,2025-10-24,Site,4
+251,Davi Miguel Rezende,SAO PAULO,SP,53.0,feminino,Eletrônicos,2500.1,2026-01-22,Site,3
+262,Sra. Sarah da Paz,sao paulo,PR,20.0,Masculino,Celulares,2711.16,2025-12-27,Loja Física,3
+53,Sophie Nascimento,Rio de Janeiro,RJ,52.0,Masculino,Livros,255.97,2026-02-01,Aplicativo,3
+180,Dr. Cauã Mendes,CURITIBA,São Paulo,23.0,feminino,Informática,4970.09,2025-11-09,Site,2
+150,Théo Araújo,rio de janeiro,PR,21.0,M,Casa,2684.79,2025-09-11,Loja Física,1
+65,Vinicius Barros,SAO PAULO,São Paulo,26.0,masculino,Esportes,3939.17,2025-10-06,Aplicativo,2
+232,Theo Viana,sao paulo,MG,61.0,Masculino,Livros,753.75,2026-02-26,Loja Física,3
+48,Isabel Dias,Belo Horizonte,MG,62.0,F,Esportes,1876.9,2026-09-05,Aplicativo,1
+146,Yago Dias,Curitiba,PR,52.0,feminino,Informática,4842.24,2026-03-25,Loja Física,4
+9,Pietra Borges,sao paulo,BA,39.0,masculino,Livros,,2026-01-14,Aplicativo,1
+141,Dr. Enzo Gabriel Andrade,sao paulo,MG,45.0,M,Celulares,3458.53,2026-06-17,Site,3
+120,Ian Vasconcelos,CURITIBA,MG,60.0,Masculino,Esportes,869.35,2025-09-13,Site,1
+5,Brayan da Mota,Curitiba,BA,31.0,Masculino,Livros,706.86,2026-09-02,Loja Física,2
+189,Pedro Henrique Pimenta,rio de janeiro,São Paulo,,Feminino,Informática,1946.2,2026-03-30,Loja Física,2
+78,Thiago Farias,CURITIBA,PR,22.0,F,Livros,91.95,2026-05-20,Site,1
+162,Rodrigo Sampaio,SAO PAULO,São Paulo,24.0,M,Esportes,659.63,2026-01-30,Site,2
+155,Isis Andrade,Rio de Janeiro,PR,53.0,feminino,Casa,3619.84,2026-08-24,Site,4
+58,Maria Fernanda Silveira,Rio de Janeiro,Rio de Janeiro,36.0,F,Casa,3929.82,2026-02-21,Site,5
+216,Caroline Castro,Curitiba,PR,18.0,F,Informática,4672.93,2025-11-19,Aplicativo,1
+260,Ana Júlia Barbosa,rio de janeiro,MG,19.0,F,Casa,118.28,2026-02-15,Aplicativo,4
+159,Maria Vitória Leão,sao paulo,PR,62.0,masculino,Informática,3220.66,2026-07-26,Loja Física,3
+224,Raquel Barbosa,Rio de Janeiro,SP,43.0,masculino,Eletrônicos,3827.96,2026-04-01,Aplicativo,1
+62,Nina Cirino,São Paulo,MG,47.0,masculino,Esportes,322.39,2026-06-09,Site,2
+191,Yan Araújo,SAO PAULO,MG,49.0,M,Esportes,2638.88,2026-06-13,Site,1
+40,Sr. João Miguel Jesus,Belo Horizonte,Rio de Janeiro,39.0,feminino,Celulares,1396.3,2025-11-15,Site,4
+60,Heloisa da Conceição,Rio de Janeiro,MG,54.0,feminino,Eletrônicos,828.68,2025-09-26,Site,1
+215,Dr. Josué Gonçalves,Rio de Janeiro,RJ,,masculino,Livros,1851.68,2026-08-19,Loja Física,3
+92,Matteo Moreira,Rio de Janeiro,BA,35.0,feminino,Eletrônicos,2879.1,2026-08-11,Aplicativo,1
+5,Sra. Marina Silveira,Curitiba,São Paulo,47.0,M,Casa,3878.96,2026-01-16,Aplicativo,5
+280,Helena Cassiano,Rio de Janeiro,São Paulo,33.0,Masculino,Livros,2978.87,2026-05-29,Site,2
+193,Sra. Antonella Santos,rio de janeiro,SP,52.0,masculino,Casa,4205.89,2026-09-06,Site,4
+119,Hadassa Pastor,Salvador,Rio de Janeiro,49.0,F,Celulares,4864.17,2026-08-15,Aplicativo,1
+32,Henry Gabriel Correia,CURITIBA,MG,55.0,masculino,Informática,710.89,2025-11-20,Aplicativo,3
+140,Esther Fernandes,Rio de Janeiro,SP,38.0,masculino,Informática,1995.12,2026-01-18,Loja Física,1
+107,Maria Liz Novaes,Belo Horizonte,RJ,27.0,Feminino,Celulares,2275.36,2026-03-07,Site,1
+168,Maria Liz Moreira,SAO PAULO,SP,28.0,F,Informática,1555.86,2026-05-19,Aplicativo,4
+232,Dra. Yasmin Silveira,Salvador,MG,,feminino,Informática,1529.26,2026-02-11,Site,4
+67,Eloah Alves,Rio de Janeiro,BA,24.0,Feminino,Celulares,,2026-05-16,Loja Física,1
+228,Danilo Moraes,SAO PAULO,SP,55.0,M,Eletrônicos,4591.27,2026-05-28,Site,4
+196,Isaac Sales,CURITIBA,São Paulo,21.0,M,Informática,2890.73,2026-08-22,Site,3
+152,Stella Casa Grande,Belo Horizonte,Rio de Janeiro,35.0,feminino,Livros,785.73,2025-10-10,Site,1
+279,Ana Lívia Siqueira,São Paulo,Rio de Janeiro,35.0,F,Celulares,2125.21,2026-05-02,Aplicativo,5
+164,José Farias,Rio de Janeiro,SP,49.0,M,Eletrônicos,2849.97,2026-08-24,Aplicativo,5
+124,Diogo da Paz,rio de janeiro,PR,40.0,F,Eletrônicos,4998.05,2025-10-05,Site,5
+163,Sr. Miguel Sá,Curitiba,PR,42.0,Masculino,Esportes,4204.15,2025-11-07,Loja Física,3
+278,Olívia Moraes,rio de janeiro,São Paulo,54.0,Feminino,Eletrônicos,2837.39,2025-12-28,Site,1
+104,Isabel Teixeira,SAO PAULO,RJ,32.0,F,Informática,148.64,2025-10-27,Aplicativo,1
+187,Lara da Mota,sao paulo,RJ,19.0,F,Esportes,3538.25,2025-12-11,Aplicativo,5
+250,Gustavo Cavalcanti,Curitiba,São Paulo,24.0,F,Casa,1646.89,2026-01-26,Loja Física,5
+151,Apollo Campos,SAO PAULO,São Paulo,40.0,F,Eletrônicos,2965.3,2025-09-19,Loja Física,5
+114,Sr. Levi Lima,sao paulo,Rio de Janeiro,43.0,masculino,Celulares,3865.61,2026-03-28,Loja Física,1
+172,Dra. Lívia Novaes,Belo Horizonte,SP,33.0,M,Informática,1631.62,2025-09-09,Site,1
+86,Lucca da Rocha,CURITIBA,Rio de Janeiro,40.0,Feminino,Celulares,,2026-02-04,Loja Física,4
+84,Daniel Sousa,Belo Horizonte,SP,24.0,Masculino,Celulares,3954.21,2026-05-14,Site,3
+48,Letícia Farias,Curitiba,PR,34.0,feminino,Livros,417.29,2026-07-30,Loja Física,1
+170,Clara Câmara,Rio de Janeiro,São Paulo,45.0,Feminino,Esportes,866.74,2026-07-17,Loja Física,5
+252,João Lucas Oliveira,SAO PAULO,SP,34.0,M,Eletrônicos,1522.13,2025-11-29,Aplicativo,1
+88,Vinicius Novaes,rio de janeiro,SP,36.0,Feminino,Eletrônicos,3144.2,2026-05-24,Aplicativo,4
+190,Sr. Gustavo Henrique Mendonça,CURITIBA,RJ,48.0,masculino,Livros,3322.15,2026-06-04,Site,3
+50,Dr. Kevin da Cruz,sao paulo,MG,46.0,M,Casa,1169.9,2025-09-15,Aplicativo,5
+244,Ester Castro,Rio de Janeiro,Rio de Janeiro,32.0,M,Eletrônicos,4211.95,2025-12-06,Aplicativo,1
+62,Ágatha Moraes,Belo Horizonte,São Paulo,50.0,masculino,Informática,2608.25,2026-06-23,Site,2
+76,Maria Vieira,rio de janeiro,RJ,20.0,F,Eletrônicos,4941.99,2025-10-20,Site,4
+268,Anna Liz Araújo,CURITIBA,SP,53.0,Feminino,Informática,1664.33,2026-08-31,Site,5
+147,João Pedro Nunes,Salvador,RJ,55.0,Feminino,Celulares,4825.92,2026-07-17,Aplicativo,4
+206,Ísis da Paz,São Paulo,Rio de Janeiro,54.0,M,Esportes,235.46,2025-10-30,Site,1
+160,Benjamin Macedo,rio de janeiro,BA,65.0,Feminino,Esportes,1379.49,2026-04-04,Loja Física,1
+214,Amanda da Paz,sao paulo,São Paulo,32.0,Feminino,Informática,4872.39,2026-04-22,Aplicativo,4
+260,Cecilia Andrade,CURITIBA,São Paulo,51.0,feminino,Casa,4114.04,2026-03-31,Site,2
